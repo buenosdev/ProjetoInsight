@@ -30,3 +30,5 @@ Para utilizar o **Projeto Insight** no Obsidian, siga estes passos:
     - Você verá as notas organizadas e poderá editá-las livremente.
     - Para adicionar novos livros, crie uma nova nota seguindo o modelo existente.
     - Use links internos e tags para conectar ideias.
+
+## Link do obsidian: https://obsidian.md/
