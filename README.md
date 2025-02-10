@@ -7,7 +7,7 @@ Bem-vindo ao **Projeto Insight**, um espaço dedicado à análise crítica e ref
 - 📖 **Resumos e anotações** sobre livros que estou lendo
 - 💡 **Reflexões pessoais** e conexões entre temas
 - 🔍 **Perguntas e discussões** para aprofundamento
-- 🌍 **Insights sobre questões gerais e possíveis soluções
+- 🌍 **Insights sobre questões** gerais e possíveis soluções
 
 ## 🛠 **Como Usar Este Repositório no Obsidian**
 
