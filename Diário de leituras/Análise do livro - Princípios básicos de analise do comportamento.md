@@ -1,0 +1,8 @@
+- **📌 Título do Livro** - Princípios básicos de analise do comportamento
+- **✍️ Autor** - Márcio Borges Moreira e Carlos Augusto de Medeiros
+- **📅 Data de Início e Conclusão** - 10/02/2025 || //
+- **📚 Resumo Geral** - 
+- **💡 Ideias Principais** (destaque conceitos importantes)
+- **🧠 Reflexões Pessoais** (como essas ideias impactam sua visão?)
+- **🔗 Conexões com Outros Livros/Tópicos** (links para outras anotações relacionadas)
+- **💬 Perguntas e Discussões** (pontos que gostaria de pesquisar mais ou discutir)![[Principios basicos de analise do comportamento.pdf]]

@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "f1664988c7a8a073",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae1e8f7fe782d6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2a23c34dfc1a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "3d06f4e39df366b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insights Globais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insights Globais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ef375f028dc6ca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ceeec1c6aca5a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f767368e5f32434e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "494823d2621f9e0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "7ffb1bb7111d3357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b28b3756a7eccd47",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb01a9b379f36fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd58cf00675f91f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para README"
+            }
+          },
+          {
+            "id": "48fd3bfaf3945f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para README"
+            }
+          },
+          {
+            "id": "6c17a31ac7aa3726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0f564d977749dae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ca2a23c34dfc1a17",
+  "lastOpenFiles": [
+    "ProjetoInsight/README.md",
+    "ProjetoInsight",
+    "Diário de leituras/Análise do livro - Princípios básicos de analise do comportamento.md",
+    "README.md",
+    "REAGME.md",
+    "Livros/Principios basicos de analise do comportamento.pdf",
+    "Livros",
+    "Nova pasta",
+    "Principios basicos de analise do comportamento.pdf",
+    "Insights Globais.md",
+    "Diário de leituras",
+    "Readme.md",
+    "Fevereiro/Principios basicos de analise do comportamento",
+    "Fevereiro"
+  ]
+}
