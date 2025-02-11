@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diário de leituras/Análise do livro - Princípios básicos de analise do comportamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Análise do livro - Princípios básicos de analise do comportamento"
             }
           },
           {
@@ -54,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -179,8 +180,8 @@
   "active": "ca2a23c34dfc1a17",
   "lastOpenFiles": [
     "Insights Globais.md",
-    "Diário de leituras/Análise do livro - Princípios básicos de analise do comportamento.md",
     "README.md",
+    "Diário de leituras/Análise do livro - Princípios básicos de analise do comportamento.md",
     "Insights Gl",
     "ProjetoInsight/README.md",
     "ProjetoInsight",
